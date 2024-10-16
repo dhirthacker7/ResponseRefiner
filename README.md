@@ -1,7 +1,5 @@
 # Validator tool
 
-# Validator tool
-
 ## Project Overview
 The project is designed to build a **Model Evaluation Tool** using Streamlit to evaluate test cases from the GAIA dataset against the OpenAI model. The tool allows users to select specific test cases, submit them to the model, and compare the results. It supports step modifications for incorrect responses and includes comprehensive feedback recording and visualization.
 
