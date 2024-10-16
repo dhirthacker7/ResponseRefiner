@@ -1,0 +1,10 @@
+openai==0.28
+streamlit
+pandas
+psycopg2-binary
+SQLAlchemy
+numpy
+tiktoken
+plotly
+matplotlib
+python-dotenv
