@@ -81,6 +81,3 @@ The Streamlit application is deployed on [Streamlit Cloud](https://streamlit.io/
 
 ## Documentation
 - **CodeLabs documentation**: [CodeLabs]([https://huggingface.co/datasets/gaia-benchmark/GAIA](https://codelabs-preview.appspot.com/?file_id=19YlgUH63yH2j6AQJpKsnpPfrSXpMxl3QcXehr_eJwpY#0)).
-- **OpenAI API Documentation**: [OpenAI API](https://openai.com/api/).
-- **Video Link**: https://northeastern-my.sharepoint.com/:v:/r/personal/gupta_abhinav_northeastern_edu/Documents/Recordings/Call%20with%20Dhir%20and%201%20other-20240927_154917-Meeting%20Recording.mp4?csf=1&web=1&e=WGipbb&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
-
