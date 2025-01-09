@@ -16,6 +16,11 @@ Key tasks include:
 - **Performance Visualization**: Generate real-time visualizations to depict model performance.
 - **Session Tracking**: Log all user interactions for each session for later analysis.
 
+## Architecture_Diagram
+
+![Architecture Diagram](./
+![Airflow ETL and Data Flow Architecture](./diagram/research_tool_architecture.png)
+
 ## Technologies Used
 - **Streamlit**: Frontend application interface.
 - **OpenAI API**: Model for generating answers.
