@@ -18,7 +18,7 @@ Key tasks include:
 
 ## Architecture_Diagram
 
-![Architecture Diagram](./Architecture_Diagram.png)
+![Architecture Diagram](./gaia_Validator_tool.png)
 
 ## Technologies Used
 - **Streamlit**: Frontend application interface.
