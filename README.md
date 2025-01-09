@@ -18,8 +18,7 @@ Key tasks include:
 
 ## Architecture_Diagram
 
-![Architecture Diagram](./
-![Airflow ETL and Data Flow Architecture](./diagram/research_tool_architecture.png)
+![Architecture Diagram](./Architecture_Diagram.png)
 
 ## Technologies Used
 - **Streamlit**: Frontend application interface.
