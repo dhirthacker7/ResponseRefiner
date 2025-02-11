@@ -80,8 +80,5 @@ The main test case data is retrieved from the GAIA benchmark dataset, while supp
    streamlit run dashboard.py
    ```
 
-## Deployment
-The Streamlit application is deployed on [Streamlit Cloud](https://streamlit.io/). 
-
 ## Documentation
 - **CodeLabs documentation**: [CodeLabs]([https://huggingface.co/datasets/gaia-benchmark/GAIA](https://codelabs-preview.appspot.com/?file_id=19YlgUH63yH2j6AQJpKsnpPfrSXpMxl3QcXehr_eJwpY#0)).
