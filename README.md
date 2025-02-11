@@ -81,4 +81,4 @@ The main test case data is retrieved from the GAIA benchmark dataset, while supp
    ```
 
 ## Documentation
-- **CodeLabs documentation**: [CodeLabs]([https://huggingface.co/datasets/gaia-benchmark/GAIA](https://codelabs-preview.appspot.com/?file_id=19YlgUH63yH2j6AQJpKsnpPfrSXpMxl3QcXehr_eJwpY#0)).
+- **CodeLabs documentation**: [CodeLabs]([https://huggingface.co/datasets/gaia-benchmark/GAIA](https://codelabs-preview.appspot.com/?file_id=19YlgUH63yH2j6AQJpKsnpPfrSXpMxl3QcXehr_eJwpY#0)]).
